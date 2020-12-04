@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jT0TR4VoouWxMyqzrjgIlMOw7R2pr74a5Op19/xYsoynL6gHlo1hrnnUjSOGo9iHWLGkpCOBud0TCz2bgiSr6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yanga Mphikeleli\\source\\repos\\Yanga1996\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.iOS\\T_Shirt_Ordering_App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
