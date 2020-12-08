@@ -1,9 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "jT0TR4VoouWxMyqzrjgIlMOw7R2pr74a5Op19/xYsoynL6gHlo1hrnnUjSOGo9iHWLGkpCOBud0TCz2bgiSr6g==",
+  "dgSpecHash": "yW7JAW6SapMeclTOzhDX94RmOjmrp5HFz5B+YepCs1qA3YOTMJf93+V7U2ut80zCZbKlBnlAHd2JKIXY75Muiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yanga Mphikeleli\\source\\repos\\Yanga1996\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.iOS\\T_Shirt_Ordering_App.iOS.csproj",
+  "projectFilePath": "C:\\xamarin\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.iOS\\T_Shirt_Ordering_App.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
+    "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
+    "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",
+    "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.3\\sqlitepclraw.provider.dynamic_cdecl.2.0.3.nupkg.sha512",
+    "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],

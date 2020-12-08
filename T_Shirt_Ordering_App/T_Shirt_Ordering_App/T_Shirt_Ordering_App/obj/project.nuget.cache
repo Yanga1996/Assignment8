@@ -1,12 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "aQAACLXONTItXQzE5pDOCgAtvAq4xW3PRyGtQ+iZK+O71tnUvLKV313XK1eAKJqhYwhx7fqkDuNM/QLr88fhcQ==",
+  "dgSpecHash": "AfCcpaDddJLmeIlbyX3gkLiYL0iQ6AqTe/RBZoZGUv7L/y22HEim39oiwA5K5vGvnUgH2bPfUlBsoyGFCYdepA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yanga Mphikeleli\\source\\repos\\Yanga1996\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.csproj",
+  "projectFilePath": "C:\\xamarin\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
+    "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
+    "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",
+    "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.3\\sqlitepclraw.lib.e_sqlite3.2.0.3.nupkg.sha512",
+    "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.3\\sqlitepclraw.provider.e_sqlite3.2.0.3.nupkg.sha512",
+    "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],

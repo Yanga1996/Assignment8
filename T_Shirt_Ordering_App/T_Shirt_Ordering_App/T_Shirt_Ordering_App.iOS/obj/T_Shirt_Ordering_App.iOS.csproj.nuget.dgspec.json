@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yanga Mphikeleli\\source\\repos\\Yanga1996\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.iOS\\T_Shirt_Ordering_App.iOS.csproj": {}
+    "C:\\xamarin\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.iOS\\T_Shirt_Ordering_App.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yanga Mphikeleli\\source\\repos\\Yanga1996\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.iOS\\T_Shirt_Ordering_App.iOS.csproj": {
+    "C:\\xamarin\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.iOS\\T_Shirt_Ordering_App.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yanga Mphikeleli\\source\\repos\\Yanga1996\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.iOS\\T_Shirt_Ordering_App.iOS.csproj",
+        "projectUniqueName": "C:\\xamarin\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.iOS\\T_Shirt_Ordering_App.iOS.csproj",
         "projectName": "T_Shirt_Ordering_App.iOS",
-        "projectPath": "C:\\Users\\Yanga Mphikeleli\\source\\repos\\Yanga1996\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.iOS\\T_Shirt_Ordering_App.iOS.csproj",
+        "projectPath": "C:\\xamarin\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.iOS\\T_Shirt_Ordering_App.iOS.csproj",
         "packagesPath": "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yanga Mphikeleli\\source\\repos\\Yanga1996\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.iOS\\obj\\",
+        "outputPath": "C:\\xamarin\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Yanga Mphikeleli\\source\\repos\\Yanga1996\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.csproj": {
-                "projectPath": "C:\\Users\\Yanga Mphikeleli\\source\\repos\\Yanga1996\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.csproj"
+              "C:\\xamarin\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.csproj": {
+                "projectPath": "C:\\xamarin\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.csproj"
               }
             }
           }
@@ -49,6 +49,10 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[4.6.0.1141, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           }
         }
@@ -65,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Yanga Mphikeleli\\source\\repos\\Yanga1996\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.csproj": {
+    "C:\\xamarin\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yanga Mphikeleli\\source\\repos\\Yanga1996\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.csproj",
+        "projectUniqueName": "C:\\xamarin\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.csproj",
         "projectName": "T_Shirt_Ordering_App",
-        "projectPath": "C:\\Users\\Yanga Mphikeleli\\source\\repos\\Yanga1996\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.csproj",
+        "projectPath": "C:\\xamarin\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App.csproj",
         "packagesPath": "C:\\Users\\Yanga Mphikeleli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yanga Mphikeleli\\source\\repos\\Yanga1996\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\obj\\",
+        "outputPath": "C:\\xamarin\\Assignment8\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\T_Shirt_Ordering_App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -116,6 +120,10 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[4.6.0.1141, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           },
           "imports": [

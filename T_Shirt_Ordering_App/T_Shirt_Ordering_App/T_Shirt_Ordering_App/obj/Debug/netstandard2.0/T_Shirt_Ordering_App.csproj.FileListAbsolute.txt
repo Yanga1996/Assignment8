@@ -1,0 +1,28 @@
+C:\Users\Yanga Mphikeleli\source\repos\Yanga1996\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\bin\Debug\netstandard2.0\T_Shirt_Ordering_App.deps.json
+C:\Users\Yanga Mphikeleli\source\repos\Yanga1996\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\bin\Debug\netstandard2.0\T_Shirt_Ordering_App.dll
+C:\Users\Yanga Mphikeleli\source\repos\Yanga1996\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\bin\Debug\netstandard2.0\ref\T_Shirt_Ordering_App.dll
+C:\Users\Yanga Mphikeleli\source\repos\Yanga1996\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\bin\Debug\netstandard2.0\T_Shirt_Ordering_App.pdb
+C:\Users\Yanga Mphikeleli\source\repos\Yanga1996\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Yanga Mphikeleli\source\repos\Yanga1996\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Yanga Mphikeleli\source\repos\Yanga1996\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\T_Shirt_Ordering_App.AssemblyInfoInputs.cache
+C:\Users\Yanga Mphikeleli\source\repos\Yanga1996\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\T_Shirt_Ordering_App.AssemblyInfo.cs
+C:\Users\Yanga Mphikeleli\source\repos\Yanga1996\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\T_Shirt_Ordering_App.csproj.CoreCompileInputs.cache
+C:\Users\Yanga Mphikeleli\source\repos\Yanga1996\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Yanga Mphikeleli\source\repos\Yanga1996\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\T_Shirt_Ordering_App.dll
+C:\Users\Yanga Mphikeleli\source\repos\Yanga1996\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\ref\T_Shirt_Ordering_App.dll
+C:\Users\Yanga Mphikeleli\source\repos\Yanga1996\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\T_Shirt_Ordering_App.pdb
+C:\xamarin\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\bin\Debug\netstandard2.0\T_Shirt_Ordering_App.deps.json
+C:\xamarin\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\bin\Debug\netstandard2.0\T_Shirt_Ordering_App.dll
+C:\xamarin\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\bin\Debug\netstandard2.0\ref\T_Shirt_Ordering_App.dll
+C:\xamarin\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\bin\Debug\netstandard2.0\T_Shirt_Ordering_App.pdb
+C:\xamarin\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\T_Shirt_Ordering_App.csprojAssemblyReference.cache
+C:\xamarin\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\xamarin\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\xamarin\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\T_Shirt_Ordering_App.AssemblyInfoInputs.cache
+C:\xamarin\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\T_Shirt_Ordering_App.AssemblyInfo.cs
+C:\xamarin\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\T_Shirt_Ordering_App.csproj.CoreCompileInputs.cache
+C:\xamarin\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\xamarin\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\T_Shirt_Ordering_App.dll
+C:\xamarin\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\ref\T_Shirt_Ordering_App.dll
+C:\xamarin\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\T_Shirt_Ordering_App.pdb
+C:\xamarin\Assignment8\T_Shirt_Ordering_App\T_Shirt_Ordering_App\T_Shirt_Ordering_App\obj\Debug\netstandard2.0\Page1.xaml.g.cs
